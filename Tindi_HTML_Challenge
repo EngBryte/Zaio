@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html>
+
+    <head>
+    
+    <meta charset="utf-8" />
+    <meta name="keywords" content="dating, love, soulmate">
+    <meta name="description" content="Find your Ride-or-Die, with Tindi!">
+    <title>Tindi</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    
+    <body>
+    
+        <h1>Tindi</h1>
+        <p>Please enter your information below</p>
+        <form action>
+            Name:  <input type="text" name="Name"><br>
+            Surname:  <input type="text" name="Surname"><br>
+            Gender:  <name="Gender" value="male:"> male: <input type="radio">
+                     <name="Gender" value="female:"> female: <input type="radio"><br>
+            age:  <input type="number" name="Age"><br>
+            <br>
+            <input type="submit" value="Submit"> 
+        </form>
+
+    </body>
+
+</html>
